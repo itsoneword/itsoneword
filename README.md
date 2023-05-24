@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>👋 Hi, I’m @itsoneword, experienced service engineer and team lead <br>👀 I’m interested in Solidity, JS, Python, SQL. Working with Bash and PS.<br>🌱 I’m currently learning web3 + (Python, AWS)<br>💞️ I’m looking to collaborate on crypto projects where I can invest my passion and built something valuable.<br>📫 I'm always available in insta: @itsoneword and via email: itsoneword@icloud.com
+<br>👋 Hi, I’m @itsoneword, experienced service engineer and team lead <br>👀 I’m interested in Solidity, JS, Python, SQL. Working with Bash and PS.<br>🌱 I’m currently learning web3 + (Python, AWS)<br>💞️ I’m looking to collaborate on crypto projects where I can invest my passion and built something valuable.<br>📫 I'm always available in insta: @itsoneword and TG: dy0r2
 
 
 ## 🌐 Socials:

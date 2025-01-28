@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>👋 Hi, I’m @itsoneword<br>👀 Currently learning web3<br>💞️ Working on WeGo, dex tool for those who never stop exploring.<br>Interested in collaboration in this niche, have pretty much lots of passion and knowledge to share in order to built something valuable.<br>📫 TG: dy0r2
+<br>👋 @itsoneword<br>👀 Deeping into web3<br>💞️ Working on WeGo, dex tool for those who never stop exploring.<br>Open for web3 collabs, have lots of passion and knowledge to share.<br>📫 TG: dy0r2
 
 
 ## 🌐 Socials:
